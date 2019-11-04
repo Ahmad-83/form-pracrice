@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Bw;
+    src: url('../fonts/BwNistaGeometricMedium.otf');
+         
+}
+*{
+    font-family: Bw;
+}
+.description{
+    font-style: italic;
+}
+.textCenter{
+    text-align: center;
+}
